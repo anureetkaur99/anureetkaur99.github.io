@@ -1,0 +1,15 @@
+body {
+    margin: 10px;
+    padding: 0px;
+    background-color: #CAD64A;
+    font-family: Garamond, serif;
+}
+
+.harry-potter {
+    background: #22B9DA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
